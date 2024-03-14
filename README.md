@@ -20,5 +20,6 @@ Particle Swarm Optimization (PSO): Models social behavior seen in bird flocking 
 ## **Execution**
 
 1. Download the datasets.
-2. Download the .ipynb file.
-3. Run the .ipynb file. 
+2. Download the Utils, Algorithm files.
+3. Download the .ipynb file.
+4. Run the .ipynb file. 
